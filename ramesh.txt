@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is dummy file
+=======
+This is second edit from master in masterbranch
+>>>>>>> master
